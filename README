@@ -1,0 +1,4 @@
+classicrt uses jQuery to add a "classic RT" button to tweets on Twitter. Using it on a tweet will copy it to your status, putting "RT @username" in front of it.
+
+It is both a chrom{e,ium} extension (in the chromium directory) and a
+greasemonkey user script (in the grease folder). The latter is untested as of the publication of this README.
